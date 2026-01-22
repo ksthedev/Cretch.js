@@ -12,16 +12,17 @@ Designed to be **dependency-free**, **easy to understand**, and usable in **Node
 
 ## 📦 Installation
 
-```bash
-npm install cretch
-```
-
-Or local usage:
+Using usage:
 
 ```js
-const { //functions name separate por ',' }= require("./cretch\cretch.js")
+const { //functions name separate por ',' } = require("./cretch\cretch.js")
 ```
 
+Or all the functions:
+
+```js
+const C = require("./cretch\cretch.js")
+```
 ---
 
 ## Math / Numbers
