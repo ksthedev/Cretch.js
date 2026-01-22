@@ -227,6 +227,6 @@ MIT
 
 ---
 
-Developed by **KsDev / KingAbysss**.
+Developed by **ksdev**.
 
 > “When the language does not provide it, the library solves it.”
