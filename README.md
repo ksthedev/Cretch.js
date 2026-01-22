@@ -12,6 +12,18 @@ Designed to be **dependency-free**, **easy to understand**, and usable in **Node
 
 ## 📦 Installation
 
+For install CLI, download Cretch and use:
+
+```bash
+node installer.js
+```
+
+Now, you can use in your project folder:
+
+```bash
+cretch i
+```
+
 Using usage:
 
 ```js
@@ -21,7 +33,7 @@ const { //functions name separate por ',' } = require("./cretch\cretch.js")
 Or all the functions:
 
 ```js
-const C = require("./cretch\cretch.js")
+const c = require("./cretch\cretch.js")
 ```
 ---
 
